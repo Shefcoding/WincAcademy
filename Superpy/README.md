@@ -92,7 +92,10 @@ This is an example of a chart with all the items
 In the following example the time will be advanced by one day and we will buy a few other items
 > PS C:\Users\Gebruiker\Documents\wincademy\superpy> python main.py advance_time --time 1 
 > The time is advanced from 2022-09-08 to 2022-09-09 
+
+
 Buy another banana on new date. 
+
 Report inventory today
 
 ![image](https://user-images.githubusercontent.com/103627787/189229118-4e24883e-6610-4891-a204-442cfafaa5d9.png)
