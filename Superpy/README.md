@@ -17,12 +17,12 @@ The program can be used by using the following commands:
 ***Buy command***
 
 In order to buy a product. The following arguments are needed: product_name, price and expiration date. This is how the command line looks like
-> python main.py buy_product --product-name banana --buy_price 0.8 --expiration-date 2022-09-09
+> python main.py buy_product --product_name banana --buy_price 0.8 --expiration_date 2022-09-09
 
 ***Sell command***
 
 In order to sell a product. The following arguments are needed: product_name and price. This is how the command line looks like
-> python main.py sell_product --product-name banana --sell_price 0.8 
+> python main.py sell_product --product_name banana --sell_price 0.8 
 
 
 ***Report inventory***
